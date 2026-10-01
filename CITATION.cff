@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Practica 1 Diseño De Controladores
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kevin Dario
+    family-names: De La Cruz Bojorquez
+    email: l20210777@tijuana.tecnm.mx
+    affiliation: TecNM / IT Tijuana
+repository-code: 'https://github.com/KevinDarioITT/MSFP1'
+keywords:
+  - RLC de segundo orden
+  - Controlador I
+  - 'Respuesta sobreamortiguada '
+  - Error Estacionario
+  - Transitorio dependientente de R y C
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-09-30'
